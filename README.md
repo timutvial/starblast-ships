@@ -1,8 +1,3 @@
 # starblast-ships
-How i created many 1000 ships
-Hey guy
-I MADE SHIPS
-fly ship tree and bee ship tree
-
-
-
+sneak peek for Apple mod
+apple mod is my ship tree with too much new ships that made by me
