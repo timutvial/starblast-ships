@@ -65,7 +65,9 @@ var ships = [
   Pulse_Fighter_301,
   
   Shadow_X_1_303,
+  
   Side_Fighter_305,
+  
   Y_Defender_307,
   Trilobite_308
 
