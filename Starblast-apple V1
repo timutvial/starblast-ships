@@ -75,6 +75,7 @@ ships.push(Shadow_X_2_506);
 ships.push(Howler_507);
 ships.push(Toscain_508);
 ships.push(Bat_Defender_509);
+
 ships.push(Advanced_Fighter_601);
 ships.push(Opressor_602);
 ships.push(Scorpion_603);
